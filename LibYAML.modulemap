@@ -1,0 +1,4 @@
+module LibYAML {
+    header "include/yaml.h"
+    export *
+}
